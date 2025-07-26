@@ -7,14 +7,16 @@ Showcasing my bio, skills, work experience, projects, education, and social prof
 
 ## 🌐 Live Demo
 
-📍 [View Live Portfolio](https://your-deployed-site.com)
+📍 [View Live Portfolio](https://magnificent-bonbon-210789.netlify.app/)
 
 ---
 
 ## 📸 Screenshot
 
-![Portfolio Screenshot](screenshot.png)
-![Portfolio Screenshot](screenshot1.png)
+![Portfolio Screenshot](Portfolio (1).png)
+![Portfolio Screenshot](Portfolio (2).png)
+![Portfolio Screenshot](Portfolio (3).png)
+![Portfolio Screenshot](Portfolio (4).png)
 
 ---
 

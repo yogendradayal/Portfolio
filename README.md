@@ -14,7 +14,7 @@ Showcasing my bio, skills, work experience, projects, education, and social prof
 ## 📸 Screenshot
 
 ![Portfolio Screenshot](Home.png)
-![Portfolio Screenshot](skills.png)
+![Portfolio Screenshot](Skills.png)
 ![Portfolio Screenshot](projects.png)
 ![Portfolio Screenshot](contact.png)
 
